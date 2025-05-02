@@ -10,29 +10,29 @@ A **Java-based Hospital Management System** designed to manage patients, doctors
 ✔ **Book Appointments** - Schedule patient-doctor appointments with date selection  
 ✔ **Check Doctor Availability** - Prevent double-booking on the same date  
 ✔ **View All Appointments** - See which doctor has an appointment with which patient  
-✔ **Structured Database** - Uses **MySQL** to store patient records securely  
+✔ **Structured Database** - Uses **MySQL** to store patient records securely
 
 ## 📂 Project Structure
 Hospital_Management_System/
- ├── src/                     # Java source code
- │   ├── HospitalManagementSystem.java
- │   ├── Doctor.java
- │   ├── Patient.java
- ├── database/                # MySQL database setup file
- │   ├── database_setup.sql
- ├── screenshots/             # UI screenshots
- │   ├── hospital_management_system.png
- │   ├── view_doctors.png
- │   ├── add_patients.png
- │   ├── view_patients.png
- │   ├── book_appointment.png
- │   ├── view_appointments.png
- │   ├── exit.png
- ├── README.md                # Project documentation
- ├── .gitignore               # Ignore unnecessary files
- ├── Hospital_Management_System.iml  
+├── src/                     # Java source code
+│   ├── HospitalManagementSystem.java
+│   ├── Doctor.java
+│   ├── Patient.java
+├── database/                # MySQL database setup file
+│   ├── database_setup.sql
+├── screenshots/             # UI screenshots
+│   ├── hospital_management_system.png
+│   ├── view_doctors.png
+│   ├── add_patients.png
+│   ├── view_patients.png
+│   ├── book_appointment.png
+│   ├── view_appointments.png
+│   ├── exit.png
+├── README.md                # Project documentation
+├── .gitignore               # Ignore unnecessary files
+├── Hospital_Management_System.iml
 
- 📸 Screenshots
+📸 Screenshots
 These images demonstrate the core functionality of the Hospital Management System.
 1️⃣ Main Dashboard
 Central screen of the Hospital Management System.
@@ -55,4 +55,3 @@ Display scheduled appointments including patient and doctor details.
 7️⃣ Exit Screen
 Final screen before exiting the system.
 ![Exit](Screenshots/screenshot007.png)
-
