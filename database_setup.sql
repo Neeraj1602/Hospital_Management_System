@@ -23,3 +23,10 @@ CREATE TABLE appointments (
     FOREIGN KEY (patient_id) REFERENCES patients(id),
     FOREIGN KEY (doctor_id) REFERENCES doctors(id)
 );
+
+INSERT INTO DOCTORS(name, specialization) VALUES ("Dr.Manish Yadav", "Physician");
+INSERT INTO DOCTORS(name, specialization) VALUES ("Dr.Neeraj Gupta", "NeuroSurgeon");
+INSERT INTO DOCTORS(name, specialization) VALUES ("Dr.Manisha Agrawal", "gynecologist");
+INSERT INTO DOCTORS(name, specialization) VALUES ("Dr.Monu Pratap Singh", "Cardiologist");
+INSERT INTO DOCTORS(name, specialization) VALUES ("Dr.Himanshu verma", "Orthopedist");
+INSERT INTO DOCTORS(name, specialization) VALUES ("Dr.Piryanshu Shukla", "General surgery");
