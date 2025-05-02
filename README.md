@@ -49,16 +49,16 @@ _Form for adding a new patient along with diagnosis details._
 
 ### **4️⃣ View Patients**
 _Show all registered patients with their medical history._  
-![View Patients](screenshots/screenshot004.png)
+![View Patients](screenshots/screenshot007.png)
 
 ### **5️⃣ Book Appointment**
 _Interface for scheduling a doctor-patient appointment._  
-![Book Appointment](screenshots/screenshot005.png)
+![Book Appointment](screenshots/screenshot006.png)
 
 ### **6️⃣ View Appointments**
 _Display scheduled appointments including patient and doctor details._  
-![View Appointments](screenshots/screenshot006.png)
+![View Appointments](screenshots/screenshot005.png)
 
 ### **7️⃣ Exit Screen**
 _Final screen before exiting the system._  
-![Exit](screenshots/screenshot007.png)
+![Exit](screenshots/screenshot004.png)
